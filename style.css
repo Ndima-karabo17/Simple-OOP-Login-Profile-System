@@ -1,0 +1,37 @@
+body{
+    background-color: #006A6B;
+    color: white;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.all{
+    background-color: #0891B2;
+    width:80%;
+    height: 70vh;
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+
+}
+.welcomePage{
+    width:40%;
+    background-color: #159294;
+}
+.all > .welcomePage > ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.all > .welcomePage > ul > li > button{
+    background-color: #20BDFF;
+    width:100px;
+    height: 5vh;
+    border: none;
+    border-radius: 4px;
+
+}
+.all > .welcomePage > ul > li > button > a{
+    font-size: 19px;
+    text-decoration: none;
+    color:white;
+}
