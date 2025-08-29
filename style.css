@@ -1,12 +1,12 @@
 body {
-    background-color: #0ca1c7;
-    color: white;
+    background-color: #F0F8FF;
+    color: black;
     overflow-y: hidden;
     overflow-x: hidden;
 }
 
 .all {
-    background-color: #0891B2;
+    background-color: #d0e5f7;
     width: 60%;
     height: 70vh;
     margin-top: 100px;
@@ -17,7 +17,7 @@ body {
 
 .welcomePage {
     width: 35%;
-    background-color: #0aa3c9;
+    background-color: #F0F8FF;
     border-radius: 10px;
     height: 500px;
     margin-top: 3px;
@@ -32,7 +32,7 @@ body {
 }
 
 .all>.welcomePage>ul>li>button {
-    background-color: #10a9cf;
+    background-color: #d0e5f7;
     width: 100px;
     height: 5vh;
     border: none;
@@ -48,11 +48,11 @@ body {
 .all>.welcomePage>ul>li>button>a {
     font-size: 19px;
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 .all>.welcomePage>#slogan {
-    margin-top: 270px;
+    margin-top: 160px;
 }
 
 .all>.welcomePage>#slogan>h2 {
@@ -124,15 +124,15 @@ body {
     padding: 10px;
     font-size: 16px;
     border: none;
-    border-radius: 5px;
-    background-color: #E0F7FA;
+    border-radius: 20px;
+    background-color: #F0F8FF;
     color: #333;
 }
 
 #signin-button,
 #signup-button {
-    background-color: #20BDFF;
-    color: white;
+    background-color: #F0F8FF;
+    color: black;
     font-size: 18px;
     padding: 10px 20px;
     border: none;
